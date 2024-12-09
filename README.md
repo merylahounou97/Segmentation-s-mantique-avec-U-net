@@ -2,6 +2,7 @@
 
 ## Description
 Ce projet a pour objectif de détecter le foie et les lésions hépatiques à partir d'images de coupes thoraciques en utilisant une approche de segmentation sémantique basée sur le modèle **U-Net**. Il s'appuie sur des données médicales complexes et propose une solution pour un diagnostic précis.
+
 ![image](https://user-images.githubusercontent.com/91097262/169555839-ed1b2578-e5e3-484f-a146-8ac155087ae0.png)
 
 ---
